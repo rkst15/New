@@ -18,7 +18,7 @@
             <option value="-">-</option>
         </select>
         <input type="number" name="second">
-        <button type="submit" name="submit">Submit</button>
+        <button type="submit" name="submit">calculate</button>
     </form>
 </body>
 
